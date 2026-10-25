@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christ-the-king-community.vercel.app/sitemap.xml
